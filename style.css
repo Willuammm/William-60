@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  padding-top: 800px;
+  text-align: center;
+}
+
+.link {
+  height: 100%;
+  display:table;
+  background-color: blueviolet;
+  color: red;
+  font-size: 30px;
+  width: 100%;
+  margin-top: 0px;
+}
+
+img {
+  width: 260px;
+  height: 250px;
+  margin-bottom: 50px;
+  border-radius: 50px;
+}
+
+#Gumball {
+  position: absolute;
+  overflow: hidden;
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  display:table;
+  width: 100%;
+  opacity: 1;
+  background: linear-gradient(#aad6ef 0%, #fe2339 100%);
+}
+.link:hover{
+    background-color: dimgrey;
+    font-size: 35px;
+}
+#talk {
+  top: 0;
+   bottom: 0;
+  right: 0;
+  left:0;
+  line-height: 1;
+  text-align: center;
+}
+#n{
+    width:200px;
+}
+#g{
+    Width:175px;
+}
